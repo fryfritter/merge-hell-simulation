@@ -1,9 +1,6 @@
 <directory_2/file_1.txt title>
+It’s common to give up right before change is about to happen. Learning to code (especially to the point where you can switch careers) is a lot of work. It takes time and a lot of discipline, but it is possible. Too many people make the mistake of doing almost enough work to to get where they want.
 
-You learn by doing. The only way to get better at programming is to actually program. Don’t let an analysis paralysis prevent you from ever starting.
-Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
-Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
-Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit
 Doloremque architecto quaerat impedit iure debitis, 
