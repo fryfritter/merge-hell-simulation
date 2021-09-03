@@ -1,10 +1,6 @@
 <directory_1/file_2.txt title>
 
-<<<<<<< HEAD
-There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
-=======
 Learning by yourself is really tough. Talking about code and collaborating with other aspiring developers is a better way to learn for most people.
->>>>>>> 2460195 (four)
 
 
 There’s a right way to ask for help. Everybody needs to ask for help at some point. And when you do, make sure that you do these 4 things:
