@@ -8,6 +8,6 @@ There’s a right way to ask for help. Everybody needs to ask for help at some p
 Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
 Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
 Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
-- When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
+Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
 
-Avoiding merge conflicts makes you happier. Merge conflicts are annoying. So when I realized that I could sneak a feature in before a teammate so that he/she had to deal with these instead of me, I was super excited.
+Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
