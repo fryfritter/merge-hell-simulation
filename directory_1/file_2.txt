@@ -19,4 +19,13 @@ You don’t need 5 monitors. Contrary to what Hollywood might tell you, you don�
 
 There’s a BIG difference between a capital letter and a lowercase letter. It took me a while to get used to noticing subtle differences between similar symbols, and it can be pretty frustrating until you get used to it.
 
-Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
+Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.Pair program as much as possible. There is no faster way to learn how to code.
+
+Changing bad code is part of the process. I used to think that every piece of code I wrote needed to be perfect. But making improvements to your code is normal. You’re not writing a book that can’t be changed once it’s published.
+
+There’s a right way to ask for help. Everybody needs to ask for help at some point. And when you do, make sure that you do these 4 things:
+- Overcommunicate details that you see.
+- Explain exactly what you think should be happening.
+- Explain exactly what is actually happening.
+- Explain why you think it should be working differently.
+- When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
