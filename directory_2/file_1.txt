@@ -1,9 +1,9 @@
 <directory_2/file_1.txt title>
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+You learn by doing. The only way to get better at programming is to actually program. Don’t let an analysis paralysis prevent you from ever starting.
+Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
+Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
+Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit
 Doloremque architecto quaerat impedit iure debitis, 
@@ -13,4 +13,4 @@ voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
 Lorem ipsum dolor sit amet consectetur adipisicing elit
 Doloremque architecto quaerat impedit iure debitis, 
 reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
