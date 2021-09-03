@@ -1,6 +1,6 @@
 <directory_1/file_2.txt title>
 
-Learning by yourself is really tough. Talking about code and collaborating with other aspiring developers is a better way to learn for most people.
+Learning to code isn’t easy. But that’s why it’s worth doing.
 
 
 There’s a right way to ask for help. Everybody needs to ask for help at some point. And when you do, make sure that you do these 4 things:
@@ -8,6 +8,6 @@ There’s a right way to ask for help. Everybody needs to ask for help at some p
 Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
 Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
 Trying to understand everything is a lost cause. In the beginning, I tried to chase down the “why” to every problem I encountered. This isn’t necessary. Computers are so complex and there is so much to learn, and you’re never going to understand everything. That’s ok.
-Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
+Learning to code isn’t easy. But that’s why it’s worth doing.
 
 Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
