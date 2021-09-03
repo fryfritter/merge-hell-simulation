@@ -1,9 +1,6 @@
 <directory_2/file_1.txt title>
 
-You learn by doing. The only way to get better at programming is to actually program. Don’t let an analysis paralysis prevent you from ever starting.
-Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
-Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
-Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
+Programmers
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit
 Doloremque architecto quaerat impedit iure debitis, 
