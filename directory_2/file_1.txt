@@ -2,10 +2,9 @@
 
 Programmers
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
+Lorem ipsum dolor Make the computer think like a human. Too many people have the impression that you need to think like a computer. It’s actually the opposite.
+Make the computer think like a human. Too many people have the impression that you need to think like a computer. It’s actually the opposite.
+Make the computer think like a human. Too many people have the impression that you need to think like a computer. It’s actually the opposite.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit
 Doloremque architecto quaerat impedit iure debitis, 
