@@ -59,3 +59,5 @@ Programming is about using the right tool for the job. There are so many differe
 It’s common to give up right before change is about to happen. Learning to code (especially to the point where you can switch careers) is a lot of work. It takes time and a lot of discipline, but it is possible. Too many people make the mistake of doing almost enough work to to get where they want.
 
 Learning to code isn’t easy. But that’s why it’s worth doing.
+
+(source: https://www.forbes.com/sites/quora/2017/02/03/twenty-seven-things-i-wish-id-known-when-i-started-programming/#2367ec826395)
