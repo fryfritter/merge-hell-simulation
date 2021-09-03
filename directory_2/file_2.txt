@@ -4,7 +4,4 @@ Programming is about using the right tool for the job. There are so many differe
 
 You’re never going to feel like you’re ready to program full time. Imposter syndrome is real. Try to remember that it’s normal to not know everything. The most important thing is understanding that you can figure out the stuff that you don’t know.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
-Doloremque architecto quaerat impedit iure debitis, 
-reprehenderit magnam magni mollitia vel nemo repellendus 
-Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
+Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
