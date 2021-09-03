@@ -10,5 +10,5 @@ Learning to code isn’t easy. But that’s why it’s worth doing.Programming i
 
 Learning to code isn’t easy. But that’s why it’s worth doing.
 Learning to code isn’t easy. But that’s why it’s worth doing. 
-reprehenderit magnam magni mollitia vel nemo repellendus 
+Learning to code isn’t easy. But that’s why it’s worth doing. 
 Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
