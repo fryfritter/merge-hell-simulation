@@ -14,4 +14,4 @@ There’s a right way to ask for help. Everybody needs to ask for help at some p
 - Explain why you think it should be working differently.
 - When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
 
-An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
+Avoiding merge conflicts makes you happier. Merge conflicts are annoying. So when I realized that I could sneak a feature in before a teammate so that he/she had to deal with these instead of me, I was super excited.
