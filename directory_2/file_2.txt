@@ -17,3 +17,9 @@ Programming is about using the right tool for the job. There are so many differe
 You’re never going to feel like you’re ready to program full time. Imposter syndrome is real. Try to remember that it’s normal to not know everything. The most important thing is understanding that you can figure out the stuff that you don’t know.
 
 Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
+Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
+
+Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
+
+
+Letting problems pile up without checking is a poor strategy. I used to make endless changes to my code and expect it to work right away. The problem with this approach is that it stacks one problem on top of another, and it becomes difficult to figure what went wrong.
