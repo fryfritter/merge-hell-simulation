@@ -1,8 +1,8 @@
 <directory_2/file_3.txt title>
 
 Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
-
-Doloremque architecto quaerat impedit iure debitis, 
+Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
+ 
 reprehenderit magnam magni mollitia vel nemo repellendus 
 voluptates commodi assumenda corporis aliquid sit cumque vero delectus!
 
