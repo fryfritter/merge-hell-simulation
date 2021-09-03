@@ -12,7 +12,7 @@ Programming is about using the right tool for the job. There are so many differe
 Programming is about using the right tool for the job. There are so many different open source libraries, tools, and frameworks at your disposal. So you need to grow your developer toolkit and understand which tool makes sense for each problem that they encounter.
 Learning to code isn’t easy. But that’s why it’s worth doing.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
+Learning to code isn’t easy. But that’s why it’s worth doing.
 Doloremque architecto quaerat impedit iure debitis, 
 reprehenderit magnam magni mollitia vel nemo repellendus 
 Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
