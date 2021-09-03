@@ -8,7 +8,7 @@ Learning to code isn’t easy. But that’s why it’s worth doing.Programming i
 (source: https://www.forbes.com/sites/quora/2017/02/03/twenty-seven-things-i-wish-id-known-when-i-started-programming/#2367ec826395) s
 (source: https://www.forbes.com/sites/quora/2017/02/03/twenty-seven-things-i-wish-id-known-when-i-started-programming/#2367ec826395)
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit
+Learning to code isn’t easy. But that’s why it’s worth doing.
 Doloremque architecto quaerat impedit iure debitis, 
 reprehenderit magnam magni mollitia vel nemo repellendus 
 Let go of your emotions. You’re going to see error messages on your journey to becoming a programmer. When screwing up is such an integral part of the process, you need to be ok with making mistakes in order to grow.
