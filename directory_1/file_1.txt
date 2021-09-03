@@ -1,6 +1,5 @@
 <directory_1/file_1.txt title>
 
-<<<<<<< HEAD
 Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
 You learn by doing. The only way to get better at programming is to actually program. Don’t let an analysis paralysis prevent you from ever starting.
 
@@ -12,3 +11,4 @@ Programmers never stop learning. New technologies come out all the time, so the 
 (source: https://www.forbes.com/sites/quora/2017/02/03/twenty-seven-things-i-wish-id-known-when-i-started-programming/#2367ec826395)
 
 (source: https://www.forbes.com/sites/quora/2017/02/03/twenty-seven-things-i-wish-id-known-when-i-started-programming/#2367ec826395)
+>>>>>>> 22c6020 (paragraph 1 cp)
