@@ -7,6 +7,12 @@ It’s common to give up right before change is about to happen. Learning to cod
 (source: https://www.forbes.com/sites/quora/2017/02/03/twenty-seven-things-i-wish-id-known-when-i-started-programming/#2367ec826395) s
 (source: https://www.forbes.com/sites/quora/2017/02/03/twenty-seven-things-i-wish-id-known-when-i-started-programming/#2367ec826395)
 
+It’s common to give up right before change is about to happen. Learning to code (especially to the point where you can switch careers) is a lot of work. It takes time and a lot of discipline, but it is possible. Too many people make the mistake of doing almost enough work to to get where they want.w.
+Programming isn’t like studying for a test. Memorizing stuff doesn’t matter all that much.
+
+Cheating is completely acceptable. I use Google to solve most of my problems, and so do most programmers.
+
+Letting problems pile up without checking is a poor strategy. I used to make endless changes to my code and expect it to work right away. The problem with this approach is that it stacks one problem on top of another, and it becomes difficult to figure what went wrong.
 Learning to code isn’t easy. But that’s why it’s worth doing.
 Doloremque architecto quaerat impedit iure debitis, 
 reprehenderit magnam magni mollitia vel nemo repellendus 
